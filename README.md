@@ -73,7 +73,7 @@ The interactive dashboard for this project is hosted on **Tableau Public**. It f
 ├── requirements.txt                 # Dependencies
 └── README.md                        # Project documentation
 
-'''text
+```
 ---
 ## 🛠 Getting Started
 
@@ -105,4 +105,4 @@ The interactive dashboard for this project is hosted on **Tableau Public**. It f
 Distributed under the MIT License. See `LICENSE` for more information.
 
 **Author:** Gaurav Bhatti  
-*MHI Candidate, University of Michigan* | *PharmD / Pharmacist*
+*MHI Candidate, University of Michigan* 
