@@ -73,35 +73,3 @@ The interactive dashboard for this project is hosted on **Tableau Public**. It f
 ├── requirements.txt                 # Dependencies
 └── README.md                        # Project documentation
 
-## Getting Started
-Prerequisites
-Python 3.8+
-Pandas & NumPy
-
-Installation 
-
-Clone the repo
-
-Bash
-git clone [https://github.com/YOUR_USERNAME/glp1-precision-model.git](https://github.com/YOUR_USERNAME/glp1-precision-model.git)
-Install dependencies
-
-Bash
-pip install -r requirements.txt
-Run the Simulation
-
-Bash
-python simulation_engine.py
-📜 License
-Distributed under the MIT License. See LICENSE for more information.
-
-Author: [Your Name]
-
-MHI Candidate, University of Michigan PharmD / Pharmacist
-
-
-### **Why this works:**
-1.  **The Badges:** The colored chips at the top immediately signal "I know how to use modern dev tools."
-2.  **The Table:** The "Key Findings" table makes the results readable in 2 seconds.
-3.  **The Code Blocks:** The black boxes for the installation commands look professional and are easy to copy.
-4.  **The Call-to-Action:** The big orange button (Badge) for the Tableau Da
