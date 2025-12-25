@@ -73,3 +73,35 @@ The interactive dashboard for this project is hosted on **Tableau Public**. It f
 ├── requirements.txt                 # Dependencies
 └── README.md                        # Project documentation
 
+---
+## 🛠 Getting Started
+
+### Prerequisites
+* Python 3.8+
+* Pandas & NumPy
+
+### Installation
+
+1.  **Clone the repo**
+    ```bash
+    git clone [https://github.com/gauravcb99/glp1-precision-model.git](https://github.com/gauravcb99/glp1-precision-model.git)
+    ```
+    
+
+2.  **Install dependencies**
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3.  **Run the Simulation**
+    ```bash
+    python simulation_engine.py
+    ```
+
+---
+
+## 📜 License
+Distributed under the MIT License. See `LICENSE` for more information.
+
+**Author:** Gaurav Bhatti  
+*MHI Candidate, University of Michigan* | *PharmD / Pharmacist*
