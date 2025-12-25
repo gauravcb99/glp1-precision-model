@@ -56,7 +56,7 @@ The interactive dashboard for this project is hosted on **Tableau Public**. It f
 * **The Cliff:** Visualizing the drop-off points in patient retention.
 * **Digital Biomarker:** Scatter plot analysis of Engagement vs. Weight Loss.
 
-[![View Dashboard](https://img.shields.io/badge/View_Dashboard-Click_Here-E97627?style=for-the-badge)]([INSERT_YOUR_TABLEAU_PUBLIC_LINK_HERE](https://public.tableau.com/app/profile/gaurav.bhatti/viz/GLP-1ValueOptimizationModel-2025/Dashboard1?publish=yes))
+[![View Dashboard](https://img.shields.io/badge/View_Dashboard-Click_Here-E97627?style=for-the-badge)](https://public.tableau.com/app/profile/gaurav.bhatti/viz/GLP-1ValueOptimizationModel-2025/Dashboard1)
 
 ---
 
